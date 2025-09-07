@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Occasionally known as [ax-spothier](https://github.com/ax-spothier) when I'm being paid to code.
+Also known as [ax-spothier](https://github.com/ax-spothier)
 <!--
 **spenserpothier/spenserpothier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
